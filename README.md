@@ -1,9 +1,9 @@
 <h3 align="center">
-  “Só deseje as coisas as quais você está disposto a lutar”!
+  “Não espere resultados brilhantes se suas metas não forem claras”!
 </h3>
 
 ### Instalação de pacotes
-npm install
+yarn install
 
 ### Executar o projeto
-npm run dev:server
+yarn start
